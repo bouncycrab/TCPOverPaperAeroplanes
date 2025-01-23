@@ -150,10 +150,13 @@ project/
 
 Contributions are welcome! Please read our contributing guidelines and submit pull requests for any enhancements.
 
-## License
-
-[Your chosen license]
-
 ## Acknowledgments
 
 This project was inspired by RFC 1149 (IP over Avian Carriers) and developed as an educational tool for understanding networking protocols.
+Made by:
+Advay Dilip Pakhale
+Low Yu Xuan
+Ming Yuan
+Hikaru Kawaguchi
+
+
